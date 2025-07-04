@@ -1,0 +1,30 @@
+:root {
+    --font-principal1: #E2E4E9;
+    --font-principal2: #C0C4CE;
+    --font-principal3: #878EA1;
+    --font-principal4: #292C34;
+    --font-principal5: #16181D;
+    --font-principal6: #0D0E11;
+    --font-principal7: #E3646E;
+    --font-principal8: #BB72E9;
+    --font-principal9: #3996DB;
+    --font-principal10: #82BC4F;
+    --font-principal11:#EABD5F;
+
+    --font-family: "Asap", sans-serif;
+     --font-family2: "Maven Pro", sans-serif;
+      --font-family3: "Inconsolata", monospace;;
+
+    --title-lg: bold 56px/120% var(--font-family1);
+    --title-md: bold 24px/120% var(--font-family1);
+    --title-sm: bold 16px/120% var(--font-family1);
+
+    --text-md: normal 16px/140% var(--font-family2);;
+    --text-sm: normal 14px/140% var(--font-family2);
+
+    --text-substitle: normal 20px/120% var(var(--font-family3))
+
+
+
+
+}
