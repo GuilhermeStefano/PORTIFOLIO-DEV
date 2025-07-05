@@ -1,3 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   
+    
+}
+
+body {
+   background-image: linear-gradient(to bottom, rgb(117, 0, 18), black);
+    
+    
+}
+
+
+
 :root {
     --font-principal1: #E2E4E9;
     --font-principal2: #C0C4CE;
@@ -13,18 +29,13 @@
 
     --font-family: "Asap", sans-serif;
      --font-family2: "Maven Pro", sans-serif;
-      --font-family3: "Inconsolata", monospace;;
+      --font-family3: "Inconsolata", sans-serif;
 
     --title-lg: bold 56px/120% var(--font-family1);
     --title-md: bold 24px/120% var(--font-family1);
     --title-sm: bold 16px/120% var(--font-family1);
-
-    --text-md: normal 16px/140% var(--font-family2);;
+    --text-md: normal 16px/140% var(--font-family2);
     --text-sm: normal 14px/140% var(--font-family2);
+    --text-substitle: normal 20px/120% var(--font-family3);
 
-    --text-substitle: normal 20px/120% var(var(--font-family3))
-
-
-
-
-}
+    }
